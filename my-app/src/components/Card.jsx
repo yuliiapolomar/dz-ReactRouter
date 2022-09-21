@@ -23,8 +23,7 @@ const Card = ({user}) => {
             </li>
             <Link to={`/posts/${user.id}`}>
                 <CardButton/>
-            </Link>
-            
+            </Link>            
         </ul>
     )
 }
