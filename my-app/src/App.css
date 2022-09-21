@@ -1,0 +1,32 @@
+.users-list span {
+  color:#1265ea; 
+  font-weight: 500; 
+}
+
+.list {
+  list-style: none;
+  margin-bottom: 40px;
+  padding: 0;
+}
+
+.card-button {
+  background-color: #4287f5;
+  color: #fff;
+  font-weight: 500; 
+  border: none;
+  height: 30px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.post {
+  margin-bottom: 30px;
+}
+.post h4 {
+  margin: 0 0 5px 0;
+  color:#1265ea; 
+}
+
+.post p {
+  margin: 0;
+}
